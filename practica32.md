@@ -1,4 +1,4 @@
-# AnimeDB
+``` AnimeDB
 
 use table hanimeDB (
 	id INT,
@@ -1008,3 +1008,5 @@ insert into hanimeDB (id, Nombre, Genero, Estudio, Emision, Idioma) values (997,
 insert into hanimeDB (id, Nombre, Genero, Estudio, Emision, Idioma) values (998, '27 Missing Kisses', 'Comedy|Drama|Romance', 'Photobug', 'Dodge', 'Italian');
 insert into hanimeDB (id, Nombre, Genero, Estudio, Emision, Idioma) values (999, 'Gardens of Stone', 'Drama|War', 'Roodel', 'Chrysler', 'German');
 insert into hanimeDB (id, Nombre, Genero, Estudio, Emision, Idioma) values (1000, 'Animal House', 'Comedy', 'Shuffletag', 'Dodge', 'Georgian');
+
+```
